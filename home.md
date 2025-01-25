@@ -14,9 +14,7 @@ header:
    # - label: "<i class='fas fa-question-circle'></i> How it works"
     #  url: "/how/"
 excerpt: >
-  The average American checks their smartphone <a href="https://www.reviews.org/mobile/cell-phone-addiction/">144 times per day.</a>
-  <br /> Start using this to your advantage–by creating and keeping habits via reminders from your phone's wallpaper.<br />
-  
+ Stop, collaborate and don't listen–Read instead. Easily convert your podcast to an eBook using AI. Help the neurodivergent, deaf, hard of hearing, or people who just like to read. Make more revenue off your existing content. 
 feature_row:
   - image_path: /assets/images/workout-scrot.jpg
     alt: "Exercise"
