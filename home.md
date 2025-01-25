@@ -55,4 +55,10 @@ feature_row:
 
 {% include feature_row %}
 
-__See more in the [downloads page](/download/)__
+## Features
+
+* AI Speech Recognition
+* Speech-to-text
+* Podcast thumbnail image becomes the eBook cover
+* Each podcast episode becomes an eBook chapter
+* Customizable "About" and "Copyright" pages
