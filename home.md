@@ -44,10 +44,10 @@ feature_row:
     #url: "/download/"
     #btn_class: "btn--primary"
     #btn_label: "Free Download"
-  - image_path: /assets/images/chapters.png
-    alt: "Chapter List"
-    title: "Chapter List"
-    excerpt: "Chapter List"
+  - image_path: /assets/images/chapter_preview.png
+    alt: "Chapter Preview"
+    title: "Chapter Preview"
+    excerpt: "Chapter Preview"
     #url: "/download/"
     #btn_class: "btn--primary"
     #btn_label: "Free Download"
