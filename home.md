@@ -16,20 +16,20 @@ header:
 excerpt: >
  Stop, collaborate and don't listen–Read instead. Easily convert your podcast to an eBook using AI. Help the neurodivergent, deaf, hard of hearing, or people who just like to read. Make more revenue off your existing content. 
 feature_row:
-  - image_path: /assets/images/workout-scrot.jpg
-    alt: "Exercise"
-    title: "Exercise"
-    excerpt: "Start an exercise habit (but check with your doctor before doing this of course)"
-    url: "/download/"
-    btn_class: "btn--primary"
-    btn_label: "Free Download"
-  - image_path: /assets/images/healthy-snacks-scrot.jpg
-    alt: "Eat Right"
-    title: "Eat Right "
-    excerpt: "Start a habit of eating right (but check with your doctor before doing this of course)"
-    url: "/download/"
-    btn_class: "btn--primary"
-    btn_label: "Free Download"
+  - image_path: /assets/images/about_page.png
+    alt: "Custom About Page"
+    title: "Custom About Page"
+    excerpt: "Customize the about page automatically from your podcast information."
+    #url: "/download/"
+    #btn_class: "btn--primary"
+    #btn_label: "Free Download"
+  - image_path: /assets/images/book_list.png
+    alt: "Book List"
+    title: "Book List"
+    excerpt: "What your podcst-turned-eBook looks like on your e-Reader"
+    #url: "/download/"
+    #btn_class: "btn--primary"
+    #btn_label: "Free Download"
   - image_path: /assets/images/meditation-scrot.jpg
     alt: "Meditation"
     title: "Meditation"
