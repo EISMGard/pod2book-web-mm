@@ -20,7 +20,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "pod2book"
 title_separator          : "-"
-subtitle                 : "Stop! Collaborate, don't listen–Read instead!"
+subtitle                 : "Stop! Collaborate, Don't Listen–Read instead!"
 name                     : "Your Name"
 description              : "Convert your podcasts into eBooks"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
