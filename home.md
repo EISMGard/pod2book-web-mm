@@ -7,8 +7,8 @@ header:
   #text_color: "black"
   overlay_image: /assets/images/wallpaper.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Download Now"
-      url: "/download/"
+   # - label: "<i class='fas fa-download'></i> Download Now"
+   #   url: "/download/"
     - label: "<i class='fas fa-check-square'></i> Subscribe"
       url: "/subscribe/"
    # - label: "<i class='fas fa-question-circle'></i> How it works"

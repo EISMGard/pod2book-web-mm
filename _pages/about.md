@@ -1,7 +1,5 @@
 ---
-permalink: /about/
-title: About
-toc: false
+layout: single
 ---
 
-{% include form.html %}
+{% include contact-form.html %}
