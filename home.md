@@ -15,15 +15,6 @@ header:
     #  url: "/how/"
 excerpt: >
  Stop, collaborate and don't listen–Read instead. Easily convert your podcast to an eBook using AI. Help the neurodivergent, deaf, hard of hearing, or people who just like to read. Make more revenue off your existing content. 
----
-## Features
-
-* AI Speech Recognition
-* Speech-to-text
-* Podcast thumbnail image becomes the eBook cover
-* Each podcast episode becomes an eBook chapter
-* Customizable "About" and "Copyright" pages
-
 gallery:
   - image_path: /assets/images/book_list.png
     alt: "Book List"
@@ -61,5 +52,12 @@ gallery:
     #btn_class: "btn--primary"
     #btn_label: "Free Download"
 ---
+## Features
+
+* AI Speech Recognition
+* Speech-to-text
+* Podcast thumbnail image becomes the eBook cover
+* Each podcast episode becomes an eBook chapter
+* Customizable "About" and "Copyright" pages
 
 {% include gallery %}
