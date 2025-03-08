@@ -4,7 +4,7 @@ title: About
 layout: single
 ---
 
-The idea for transcribing podcasts to ebooks (pod2book) came about whilst listening to a podcast that was very scientific, with a lot of details. I wanted to capture what the person was saying and be able to go back and review, highlight, create notes, study, etc. Then came different podcasts I wanted to do the same thing with. Well, necessity being the mother of invention, I coded something on up and it worked pretty good.
+The idea for transcribing podcasts to ebooks (pod2book) came about whilst listening to a podcast that was very scientific, with a lot of details. I wanted to capture what the person was saying and be able to go back and review, highlight, create notes, study, etc. Then came different podcasts I wanted to do the same thing with. Well, necessity being the mother of invention, I managed to hack together something and it worked pretty well.
 
 I then thought to myself, "Self, this could also be valuable for other people that are neurodivergent, or just like to read." I also shared the idea with someone else, and they were like, "Oh yeah that would help people that are deaf or hard of hearing too." I wish I thought of that part myself.
 
