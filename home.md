@@ -54,8 +54,7 @@ gallery:
 ---
 ## Features
 
-* AI Speech Recognition
-* Speech-to-text
+* AI Speech-to-text
 * Podcast thumbnail image becomes the eBook cover
 * Each podcast episode becomes an eBook chapter
 * Customizable "About" and "Copyright" pages
