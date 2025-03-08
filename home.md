@@ -7,14 +7,14 @@ header:
   #text_color: "black"
   overlay_image: /assets/images/wallpaper.jpg
   actions:
-   # - label: "<i class='fas fa-download'></i> Download Now"
-   #   url: "/download/"
-    - label: "<i class='fas fa-check-square'></i> Subscribe"
-      url: "/subscribe/"
+    - label: "<i class='fas fa-download'></i> Download Now"
+      url: "https://github.com/eismgard"
+   # - label: "<i class='fas fa-check-square'></i> Subscribe"
+   #   url: "/subscribe/"
    # - label: "<i class='fas fa-question-circle'></i> How it works"
     #  url: "/how/"
 excerpt: >
- Stop, collaborate and don't listen–Read instead. Easily convert your podcast to an eBook using AI. Help the neurodivergent, deaf, hard of hearing, or people who just like to read. Make more revenue off your existing content. 
+ Stop, collaborate and don't listen–Read instead. Easily convert your podcast to an eBook using AI. Help the neurodivergent, deaf, hard of hearing, or people who just like to read.
 gallery:
   - image_path: /assets/images/book_list.png
     alt: "Book List"
