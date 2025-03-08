@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/wallpaper.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Download Now"
-      url: "https://github.com/eismgard"
+      url: "https://github.com/eismgard/pod2book"
    # - label: "<i class='fas fa-check-square'></i> Subscribe"
    #   url: "/subscribe/"
    # - label: "<i class='fas fa-question-circle'></i> How it works"
