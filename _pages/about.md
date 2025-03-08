@@ -15,4 +15,4 @@ Well, since I don't own the copyright to any of these, I didn't think it wise to
 Use [Calibre](https://calibre-ebook.com/).
 
 Thanks,
-[-Ben](benfran.com)
+[-Ben](https://benfran.com)
